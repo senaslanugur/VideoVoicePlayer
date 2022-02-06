@@ -1,3 +1,4 @@
 # Video and Voice Combininig Program
 It is a video playback program by combining two separate audio and video files.
 The python QT library is used for the interface.
+![Interface](https://github.com/senaslanugur/VideoVoicePlayer/blob/main/Main_Page.PNG?raw=true)
